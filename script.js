@@ -9,7 +9,7 @@ const cardsData = [
   },
   {
     title: 'Card 2',
-    description: 'Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.',
+    description: 'Team Member-02: Kamal Chohan   Student ID:sxxxxxxxxx         Project Name: Website Project 2024.',
   },
   // Add more cards as needed
 ];
