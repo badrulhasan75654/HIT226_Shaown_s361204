@@ -5,7 +5,7 @@ const cardContainer = document.getElementById('cardContainer');
 const cardsData = [
   {
     title: 'Card 1',
-    description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    description: 'Team Meber-01: Md Badrul Hasan Bhuiyan Shaown     Student ID: s361204    Project Name: Website Project 2024',
   },
   {
     title: 'Card 2',
