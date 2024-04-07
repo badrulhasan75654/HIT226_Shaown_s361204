@@ -1,0 +1,20 @@
+/* styles.css */
+.card {
+  width: 300px;
+  height: 200px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin: 10px;
+  padding: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  margin-top: 0;
+}
+
+.card p {
+  margin-bottom: 0;
+}
+
+/* Add more styles as needed */
